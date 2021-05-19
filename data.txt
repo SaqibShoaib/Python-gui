@@ -1,0 +1,4 @@
+Name                Password        Gender      Phone           Payment_method
+muhammad saqib		234		        male		3249056074		paypal
+muhammad jawad		jawad			male		03484464623		paypal
+xyz abc		uieiowhd			male		39078987209		paypal
